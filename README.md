@@ -1,6 +1,8 @@
 # Projects
-Here is a sample of my work from my time with data analytics
+Here is a sample of my work from my time with data analytics.
 Specifically, in these files you will find my learning process and mastered competencies in:
+ 
+ 
  importing libraries
  importing datasets
  exporting datasets to pkl and csv
