@@ -4,10 +4,17 @@ Specifically, in these files you will find my learning process and mastered comp
  
  
  importing libraries
+ 
  importing datasets
+ 
  exporting datasets to pkl and csv
+ 
  merging
+ 
  cleaning
+ 
  consistency checks
+ 
  creating flags and deriving new variables
+ 
  creating and editing figures as well as exporting them as files
